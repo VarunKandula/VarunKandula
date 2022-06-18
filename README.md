@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VarunKandula
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Quantitative Trading, and SWE  
+- 👀 I’m interested in SWE, Robotics, Machine Learning and Artificial Intelligence
 - 📫 Reach me at varun.kandula@berkeley.edu 
 
 <!---

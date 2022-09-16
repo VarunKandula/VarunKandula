@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VarunKandula
-- 👀 I’m interested in SWE, Robotics, Machine Learning and Artificial Intelligence
+- 👀 I’m interested in SWE, Robotics, Machine Learning and Product Managment
 - 📫 Reach me at varun.kandula@berkeley.edu 
 
 <!---

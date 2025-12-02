@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VarunKandula
-- 👀 I’m interested in SWE, Machine Learning, Data Engineering and Analytics 
+- 👀 I’m interested in SWE, FDE, Sales/Solution Engineer + Growth Roles
 - 📫 Reach me at varun.kandula@berkeley.edu 
 
 <!---
